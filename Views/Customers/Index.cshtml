@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Vidly_New.Models.Customer>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Customers</h2>
+
+@if (!Model.Any())
+{
+    <p>We don't have any customers yet!</p>
+}
+else
+{
+    <a href="~/Customers/New" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">New Customer</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Customer</th>
+                <th>Membership type</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var customer in Model)
+            {
+                <tr>
+                    <td>@Html.ActionLink(customer.Name, "Edit", "Customers", new { id = customer.Id }, null)</td>
+                    <td>@customer.MembershipType.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
