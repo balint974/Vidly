@@ -121,3 +121,11 @@ D:\Gabi\ASP.NET\Applications\Vidly-New\obj\Debug\Vidly_New.Migrations.PopulateGe
 D:\Gabi\ASP.NET\Applications\Vidly-New\obj\Debug\Vidly_New.Migrations.AddGenreIdToMovies.resources
 D:\Gabi\ASP.NET\Applications\Vidly-New\obj\Debug\Vidly_New.Migrations.CheckForMigrationInMovieModel.resources
 D:\Gabi\ASP.NET\Applications\Vidly-New\obj\Debug\Vidly_New.Migrations.ChangeRequierForDateAdded.resources
+D:\Gabi\ASP.NET\Applications\Vidly-New\bin\System.Net.Http.Formatting.dll
+D:\Gabi\ASP.NET\Applications\Vidly-New\bin\System.Web.Http.dll
+D:\Gabi\ASP.NET\Applications\Vidly-New\bin\System.Web.Http.WebHost.dll
+D:\Gabi\ASP.NET\Applications\Vidly-New\bin\System.Net.Http.Formatting.xml
+D:\Gabi\ASP.NET\Applications\Vidly-New\bin\System.Web.Http.xml
+D:\Gabi\ASP.NET\Applications\Vidly-New\bin\System.Web.Http.WebHost.xml
+D:\Gabi\ASP.NET\Applications\Vidly-New\bin\AutoMapper.dll
+D:\Gabi\ASP.NET\Applications\Vidly-New\bin\AutoMapper.xml
