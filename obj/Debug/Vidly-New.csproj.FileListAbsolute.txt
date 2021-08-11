@@ -129,3 +129,6 @@ D:\Gabi\ASP.NET\Applications\Vidly-New\bin\System.Web.Http.xml
 D:\Gabi\ASP.NET\Applications\Vidly-New\bin\System.Web.Http.WebHost.xml
 D:\Gabi\ASP.NET\Applications\Vidly-New\bin\AutoMapper.dll
 D:\Gabi\ASP.NET\Applications\Vidly-New\bin\AutoMapper.xml
+D:\Gabi\ASP.NET\Applications\Vidly-New\obj\Debug\Vidly_New.Migrations.SeedUsers.resources
+D:\Gabi\ASP.NET\Applications\Vidly-New\obj\Debug\Vidly_New.Migrations.AddDrivingLicenseToApplicationUser.resources
+D:\Gabi\ASP.NET\Applications\Vidly-New\obj\Debug\Vidly_New.Migrations.AddPhoneNumverToApplicationRegister.resources
