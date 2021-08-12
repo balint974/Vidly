@@ -132,3 +132,5 @@ D:\Gabi\ASP.NET\Applications\Vidly-New\bin\AutoMapper.xml
 D:\Gabi\ASP.NET\Applications\Vidly-New\obj\Debug\Vidly_New.Migrations.SeedUsers.resources
 D:\Gabi\ASP.NET\Applications\Vidly-New\obj\Debug\Vidly_New.Migrations.AddDrivingLicenseToApplicationUser.resources
 D:\Gabi\ASP.NET\Applications\Vidly-New\obj\Debug\Vidly_New.Migrations.AddPhoneNumverToApplicationRegister.resources
+D:\Gabi\ASP.NET\Applications\Vidly-New\obj\Debug\Vidly_New.Migrations.AddRentalToDB.resources
+D:\Gabi\ASP.NET\Applications\Vidly-New\obj\Debug\Vidly_New.Migrations.AddNumberAvailableInMovieModel.resources
